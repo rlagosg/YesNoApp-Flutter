@@ -49,4 +49,9 @@ La aplicación es un sistema de chat que interactúa con la API de 'https://yesn
 │   └── ...
 ├── pubspec.yaml
 └── ...
-
+```
+### ScreenShoots
+![Captura de pantalla 1](1.png)
+![Captura de pantalla 2](2.png)
+![Captura de pantalla 3](3.png)
+![Captura de pantalla 4](4.png)
